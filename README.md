@@ -25,4 +25,7 @@ Income statement
 ![image](https://github.com/Hasrie-Nazmi/student-fees-management-system/assets/84902303/4e454746-e306-4367-b578-4c0393c002e3)
 
 Database activity log
-![image](https://github.com/Hasrie-Nazmi/student-fees-management-system/assets/84902303/e44412cd-e0cf-4b06-bcc2-48b5524a3771)
+![image](https://github.com/Hasrie-Nazmi/student-fees-management-system/assets/84902303/a4dcbb48-461c-4e33-874c-22f870350d0d)
+
+Student account statement
+![image](https://github.com/Hasrie-Nazmi/student-fees-management-system/assets/84902303/2c90f020-2d08-4884-8989-d3f55535d17b)
